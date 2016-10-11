@@ -1,0 +1,23 @@
+body{
+  background-color: #ecf0f1;
+  margin: 60px;
+}
+
+.bg1{
+  background-color: #fff; 
+}
+.bg {
+    background-color:#f2f2f2;
+}
+h1{
+  font-size: 100px;
+  font-family: 'Dancing Script', cursive;
+}
+
+h2{
+	font-family: 'Dancing Script', cursive;
+}
+
+h3{
+	font-family: 'Dancing Script', cursive;
+}
